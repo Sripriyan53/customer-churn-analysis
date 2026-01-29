@@ -1,20 +1,25 @@
 # Customer Churn Analysis
 
-This mini project analyzes customer churn in a telecom dataset to identify factors influencing customer attrition.
+A mini data analytics project to analyze customer churn in a telecom dataset and identify key factors influencing customer attrition.
 
-## Tools Used
+## Tools & Technologies
 - Python (pandas)
 - Power BI
+- CSV dataset
 
 ## Project Overview
-- Analyzed customer churn data using Python
-- Calculated churn metrics and contract-wise churn distribution
+- Analyzed telecom customer data to understand churn behavior
+- Calculated overall churn and contract-wise churn using Python
 - Built an interactive Power BI dashboard to visualize churn patterns
+- Identified high churn among month-to-month contract customers
 
 ## Key Insight
-Customers on month-to-month contracts show significantly higher churn compared to long-term contract customers.
+Customers on month-to-month contracts show significantly higher churn compared to customers on one-year and two-year contracts.
 
-## Files
-- churn_analysis.py – Python script for churn analysis
-- WA_Fn-UseC_-Telco-Customer-Churn.csv – Dataset
-- Customer_Churn_PowerBI.pbix – Power BI dashboard
+## Repository Contents
+- churn_analysis.py : Python script for churn analysis
+- Telco-Customer-Churn.csv : Telecom churn dataset
+- Customer_Churn_PowerBI.pbix : Power BI dashboard file
+
+## Conclusion
+This project demonstrates basic data analysis, visualization, and business insight generation using Python and Power BI.
