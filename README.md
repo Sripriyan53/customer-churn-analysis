@@ -1,4 +1,7 @@
 # Customer Churn Analysis
+![Python](https://img.shields.io/badge/Python-pandas-blue)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-Mini%20Project-success)
 
 A mini data analytics project to analyze customer churn in a telecom dataset and identify key factors influencing customer attrition.
 
